@@ -2,7 +2,7 @@
     let position = 0;
     const slideToShow = 3;
     const slideToScroll = 2;
-    const container = document.querySelector('.container');
+    const container = document.querySelector('.slider-container');
     const track = document.querySelector('.slider-track');
     const btnPrev = document.querySelector('.btn-prev');
     const btnNext = document.querySelector('.btn-next');
