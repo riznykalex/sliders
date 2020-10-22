@@ -21,7 +21,9 @@
     transition: .2s;
 }
 .slider-item {
+
     height: 100px;
+
 }
 
 .slider-item:nth-child(3n+1){background-color: red;}
